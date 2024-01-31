@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Marina,<br><br>🌱 I'm currently learning Data Analysis in [Adalab](https://github.com/Adalab)<br>📝 I regularly update my repositories with the course exercises<br>⚡Fun fact: I've got all Elden Ring's trophys
+Hi! I'm Marina,<br><br>🌱 I'm currently learning Data Analysis in [Adalab](https://github.com/Adalab)<br>📝 I regularly update my repositories with the course exercises<br>⚡Fun fact: I love videogames and I've got all Elden Ring's trophys
 
 
 ## 🌐 Socials:
