@@ -10,7 +10,6 @@ Hi! I'm Marina,<br><br>🌱 I'm currently learning Data Analysis in [Adalab](htt
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marinaescobar&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marinaescobar&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marinaescobar&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marinaescobar&limit=5&theme=dracula&combine_all_yearly_contributions=true)
